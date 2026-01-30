@@ -1,6 +1,6 @@
 # FrogCroc
 
-Small TUI wizard for sending and receiving files using Croc.
+Small TUI wizard for sending and receiving files using [Croc](https://github.com/schollz/croc).
 
 ## Features
 - Simple and easy to use TUI interface
